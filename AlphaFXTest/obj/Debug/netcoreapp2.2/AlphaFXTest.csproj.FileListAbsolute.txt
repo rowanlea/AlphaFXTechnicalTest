@@ -1,0 +1,12 @@
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\AlphaFXTest.deps.json
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\AlphaFXTest.runtimeconfig.json
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\AlphaFXTest.runtimeconfig.dev.json
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\AlphaFXTest.dll
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\AlphaFXTest.pdb
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.csprojAssemblyReference.cache
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.csproj.CoreCompileInputs.cache
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.AssemblyInfoInputs.cache
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.AssemblyInfo.cs
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.dll
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\obj\Debug\netcoreapp2.2\AlphaFXTest.pdb
+C:\Users\Rowan\source\repos\AlphaFXTest\AlphaFXTest\bin\Debug\netcoreapp2.2\lotr.txt
